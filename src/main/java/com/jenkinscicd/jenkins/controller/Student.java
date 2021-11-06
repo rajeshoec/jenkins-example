@@ -9,7 +9,7 @@ public class Student {
 	@GetMapping("/studentName")
 	public String getStudentName() {
 
-		return "Rajesh is here";
+		return "Manash is here";
 
 	}
 
